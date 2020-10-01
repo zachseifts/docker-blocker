@@ -1,1 +1,1 @@
-# docker-blocker
+# A simple docker based adblocker
